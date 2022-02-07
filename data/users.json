@@ -1,0 +1,48 @@
+{
+    "61d89e6b25068": {
+        "username": "admin",
+        "password": "$2y$10$yUny\/\/c286IUpab89ys.HuECxU2M1X5Rpr14d5AKEMKc7.g1sMQQO",
+        "email": "admin@elstadion.hu",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "61d89e6b25068"
+    },
+    "61d892c063181": {
+        "username": "asdf",
+        "password": "$2y$10$8t055tCET1aqAkyG2bggQu7WWag88FIgNKvTH2KsfyvTB\/oCTDRYm",
+        "email": "asdf@asdf.hu",
+        "roles": [
+            "user"
+        ],
+        "id": "61d892c063181"
+    },
+    "61d973a42dfee": {
+        "username": "teszt",
+        "password": "$2y$10$6YxndTonsKK18EoKq4BpzugrOF9HS9RQNhEBcF6CRPpvi1kzb7Vxy",
+        "email": "teszt@teszt.hu",
+        "roles": [
+            "user"
+        ],
+        "id": "61d973a42dfee"
+    },
+    "61e08cf59b1db": {
+        "username": "valaki",
+        "password": "$2y$10$N8PGzb4Eb7Sqthg\/EIuMxu7OMWdiVKRFY6BRypDry2rB59GxjchsK",
+        "email": "asdfki.baasdf@gmail.gov",
+        "roles": [
+            "user"
+        ],
+        "id": "61e08cf59b1db"
+    },
+    "61eb07eab94b7": {
+        "username": "iun2v8",
+        "password": "$2y$10$Gz5tS21uJdSZWLdy1MJLregBbvlLki76sRPNIPNUz87oJbfqnWzOe",
+        "email": "iun2v8@inf.elte.hu",
+        "roles": [
+            "user"
+        ],
+        "id": "61eb07eab94b7"
+    }
+}
