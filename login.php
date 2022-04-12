@@ -68,7 +68,7 @@ if (count($_POST) > 0) {
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-sm navbar-light bg-light sticky-top">
+  <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.php">Eötvös Loránd Stadion</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

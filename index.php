@@ -26,7 +26,7 @@ $previousMatches = $matchesDb->findPreviousMatches(0, 5, $favoriteTeams);
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-sm navbar-light bg-light sticky-top">
+  <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.php">Eötvös Loránd Stadion</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,7 +53,7 @@ $previousMatches = $matchesDb->findPreviousMatches(0, 5, $favoriteTeams);
       </div>
     </div>
   </nav>
-  <div class="container pt-3">
+  <div class="container pt-4">
     <h1>Eötvös Loránd Stadion</h1>
     <p>
       Üdvözlünk a stadion oldalán! Tudj meg többet a következő meccsekről, és
