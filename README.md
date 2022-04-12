@@ -10,6 +10,6 @@ This is a simple website for a fictional sports stadium. It was a school assignm
 
 ### You can try it out here
 
-http://webprogramozas.inf.elte.hu/hallgatok/cur3sa/eotvos_stadion/
+https://webprogramozas.vsimon.hu/eotvos_stadion
 
 (Admin username and password: _admin_)
