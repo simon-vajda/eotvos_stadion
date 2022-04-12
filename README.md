@@ -1,3 +1,5 @@
+# Eötvös Stadion
+
 This is a simple website for a fictional sports stadium. It was a school assignment with the following requirements:
 
 - User authentication
@@ -6,7 +8,8 @@ This is a simple website for a fictional sports stadium. It was a school assignm
 - Mark teams as favorites
 - Admin role (editing matches; deleting comments)
 
-You can try it out here:
+### You can try it out here
+
 http://webprogramozas.inf.elte.hu/hallgatok/cur3sa/eotvos_stadion/
 
 (Admin username and password: _admin_)
